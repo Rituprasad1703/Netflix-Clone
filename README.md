@@ -1,2 +1,2 @@
-# Netflix-Clone
-HTML, CSS based Netflix clone
+# Netfl-Clone
+HTML, CSS based Netf clone
